@@ -1,0 +1,3 @@
+111
+npm init -y
+cnpm i jquery -S
